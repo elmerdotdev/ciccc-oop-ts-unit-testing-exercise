@@ -1,4 +1,4 @@
-// Complete the test cases below by adding the expected inputs and outputs
+// Complete the test cases below by adding the expected inputs and returns
 // All test cases should pass
 
 const rainCheck = require('../src/rainCheck')
